@@ -28,7 +28,7 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-gem 'mongo_mapper'
+gem 'mongoid'
 gem 'bson_ext'
 
 # Use Capistrano for deployment
